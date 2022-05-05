@@ -1,6 +1,6 @@
-# Toturial
+# Tutorial
 
-toturial
+tutorial
 
 ## Heading 1
 
